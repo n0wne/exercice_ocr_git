@@ -1,3 +1,5 @@
+/* Ceci est un commentaire pour ce fichier JavaScript jQuery pour le cours Openclassrooms */
+
 (function($) {
   $.simplePlaceholder = {
     placeholderClass: null,
